@@ -1,3 +1,7 @@
+# This Project was initially done as part of a class project. The work is under review so the code is not provided.
+
+---
+
 # CacheForge++: LLM-Driven Cache Replacement Policy Discovery
 
 This project extends the **CacheForge** LLM-in-the-loop framework into a full **agentic discovery system** capable of automatically generating, evaluating, and refining last-level cache (LLC) replacement policies. Our goal was to outperform state-of-the-art baseline policies across **SPEC CPU 2006** workloads—specifically targeting improvements in **Instructions Per Cycle (IPC)** under strict metadata constraints.
